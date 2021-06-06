@@ -1,0 +1,16 @@
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\bin\Debug\net5.0\Gabriel_CashFlowManager.exe
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\bin\Debug\net5.0\Gabriel_CashFlowManager.deps.json
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\bin\Debug\net5.0\Gabriel_CashFlowManager.runtimeconfig.json
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\bin\Debug\net5.0\Gabriel_CashFlowManager.runtimeconfig.dev.json
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\bin\Debug\net5.0\Gabriel_CashFlowManager.dll
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\bin\Debug\net5.0\ref\Gabriel_CashFlowManager.dll
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\bin\Debug\net5.0\Gabriel_CashFlowManager.pdb
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\obj\Debug\net5.0\Gabriel_CashFlowManager.csprojAssemblyReference.cache
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\obj\Debug\net5.0\Gabriel_CashFlowManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\obj\Debug\net5.0\Gabriel_CashFlowManager.AssemblyInfoInputs.cache
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\obj\Debug\net5.0\Gabriel_CashFlowManager.AssemblyInfo.cs
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\obj\Debug\net5.0\Gabriel_CashFlowManager.csproj.CoreCompileInputs.cache
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\obj\Debug\net5.0\Gabriel_CashFlowManager.dll
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\obj\Debug\net5.0\ref\Gabriel_CashFlowManager.dll
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\obj\Debug\net5.0\Gabriel_CashFlowManager.pdb
+C:\Users\Keri Gabriel\source\repos\Gabriel_CashFlowManager\obj\Debug\net5.0\Gabriel_CashFlowManager.genruntimeconfig.cache
